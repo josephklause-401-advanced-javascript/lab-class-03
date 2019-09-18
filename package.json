@@ -1,0 +1,29 @@
+{
+  "name": "lab-class-03",
+  "version": "1.0.0",
+  "description": "## Project Name",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "lint": "eslint **/*.js",
+    "test": "jest --verbose --coverage",
+    "test-watch": "jest --watchAll --verbose --coverage",
+    "jsdoc": "jsdoc -c ./docs/config/jsdoc.config.json"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/josephklause-401-advanced-javascript/lab-class-03.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/josephklause-401-advanced-javascript/lab-class-03/issues"
+  },
+  "homepage": "https://github.com/josephklause-401-advanced-javascript/lab-class-03#readme",
+  "dependencies": {
+    "eslint": "^6.4.0",
+    "jest": "^24.9.0",
+    "jsdoc": "^3.6.3"
+  }
+}
