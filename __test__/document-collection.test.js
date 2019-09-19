@@ -29,7 +29,7 @@ describe('Document Collection', () => {
         const writeCalls = writeFile.mock.calls;
 
         expect(path.dirname(writeCalls[0][0])).toBe(folder);
-        expect(writeCalls[0][1]).toBe(object);
+        expect(writeCalls[0][1]).toBe(JSON.stringify(object));
         expect(obj.id).toEqual(expect.any(String));
       });
   });

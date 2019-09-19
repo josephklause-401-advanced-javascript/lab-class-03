@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<coverage generated="1568872442338" clover="3.2.0">
-  <project timestamp="1568872442338" name="All files">
+<coverage generated="1568872895082" clover="3.2.0">
+  <project timestamp="1568872895082" name="All files">
     <metrics statements="20" coveredstatements="17" conditionals="0" coveredconditionals="0" methods="11" coveredmethods="8" elements="31" coveredelements="25" complexity="0" loc="20" ncloc="20" packages="1" files="1" classes="1"/>
     <file name="document-collection.js" path="/Users/joeklause/alchemy/career-track/labs/lab-class-03/lib/document-collection.js">
       <metrics statements="20" coveredstatements="17" conditionals="0" coveredconditionals="0" methods="11" coveredmethods="8"/>
