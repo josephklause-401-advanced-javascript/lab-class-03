@@ -12,6 +12,7 @@
 #### Running the app
 npm run start
     * starts node on index.js
+    * will push a new file to destination.txt [folder](destination.txt) and console.log obj
 npm run test
     * runs one iteration of test
 npm run lint
@@ -20,4 +21,4 @@ npm run test-watch
     * runs test once and re-runs whenever there is a change.
 
 #### UML
-![UML]()
+![UML](assests/IMG_5258.jpg)
