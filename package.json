@@ -24,6 +24,7 @@
   "dependencies": {
     "eslint": "^6.4.0",
     "jest": "^24.9.0",
-    "jsdoc": "^3.6.3"
+    "jsdoc": "^3.6.3",
+    "shortid": "^2.2.15"
   }
 }
