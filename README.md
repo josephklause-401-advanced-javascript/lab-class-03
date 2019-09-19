@@ -5,22 +5,19 @@
 ### Author: Joseph Klause
 
 ### Links and Resources
-* [submission PR](http://xyz.com)
-* [travis](http://xyz.com)
-
-
-#### Documentation
-* [jsdoc](http://xyz.com) (Server assignments)
+* [submission PR](https://github.com/josephklause-401-advanced-javascript/lab-class-03/pull/1)
+* [travis](https://travis-ci.com/josephklause-401-advanced-javascript/lab-class-03)
 
 
 #### Running the app
-
-**Describe what npm scripts do**
-(hint: `npm run` from command line will give you list, paste here and change
-command to description)
-  
-#### Tests
-Any additional testing information
+npm run start
+    * starts node on index.js
+npm run test
+    * runs one iteration of test
+npm run lint
+    * runs linter
+npm run test-watch
+    * runs test once and re-runs whenever there is a change.
 
 #### UML
-Link to an image of the UML for your application and response to events
+![UML]()

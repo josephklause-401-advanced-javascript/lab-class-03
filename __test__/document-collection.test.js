@@ -43,7 +43,7 @@ describe('Document Collection', () => {
       id: 'jlk'
     };
 
-    readFile.mockResolvedValueOnce(JSON.stringify(expectedObject));
+    readFile.mockResolvedValueOnce(expectedObject);
 
     return docCollection.get(expectedObject.id)
       .then(returnedObj => {
