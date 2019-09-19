@@ -1,22 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<coverage generated="1568854394404" clover="3.2.0">
-  <project timestamp="1568854394404" name="All files">
-    <metrics statements="13" coveredstatements="10" conditionals="0" coveredconditionals="0" methods="6" coveredmethods="3" elements="19" coveredelements="13" complexity="0" loc="13" ncloc="13" packages="1" files="1" classes="1"/>
+<coverage generated="1568869823637" clover="3.2.0">
+  <project timestamp="1568869823637" name="All files">
+    <metrics statements="17" coveredstatements="17" conditionals="0" coveredconditionals="0" methods="8" coveredmethods="8" elements="25" coveredelements="25" complexity="0" loc="17" ncloc="17" packages="1" files="1" classes="1"/>
     <file name="document-collection.js" path="/Users/joeklause/alchemy/career-track/labs/lab-class-03/lib/document-collection.js">
-      <metrics statements="13" coveredstatements="10" conditionals="0" coveredconditionals="0" methods="6" coveredmethods="3"/>
+      <metrics statements="17" coveredstatements="17" conditionals="0" coveredconditionals="0" methods="8" coveredmethods="8"/>
       <line num="1" count="1" type="stmt"/>
       <line num="2" count="1" type="stmt"/>
       <line num="3" count="1" type="stmt"/>
-      <line num="8" count="1" type="stmt"/>
-      <line num="13" count="1" type="stmt"/>
+      <line num="8" count="3" type="stmt"/>
       <line num="14" count="1" type="stmt"/>
       <line num="15" count="1" type="stmt"/>
       <line num="17" count="1" type="stmt"/>
       <line num="19" count="1" type="stmt"/>
-      <line num="25" count="0" type="stmt"/>
-      <line num="26" count="0" type="stmt"/>
-      <line num="28" count="0" type="stmt"/>
+      <line num="21" count="1" type="stmt"/>
+      <line num="29" count="2" type="stmt"/>
+      <line num="31" count="2" type="stmt"/>
+      <line num="33" count="2" type="stmt"/>
+      <line num="40" count="1" type="stmt"/>
       <line num="43" count="1" type="stmt"/>
+      <line num="45" count="1" type="stmt"/>
+      <line num="46" count="1" type="stmt"/>
+      <line num="54" count="1" type="stmt"/>
     </file>
   </project>
 </coverage>
