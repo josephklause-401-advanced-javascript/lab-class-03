@@ -6,7 +6,7 @@ jest.mock('../lib/files.js', () => ({
 
 const path = require('path');
 
-const DocumentCollection = require('../lib/document-collection');
+const DocumentCollection = require('../lib/document-collection-async');
 
 // for setting up mock expectations
 const { readFile, writeFile, readdir } = require('../lib/files');
